@@ -1,0 +1,15 @@
+C:\Users\missc\source\repos\NPC Creation Suite Plus\NPC Creation Suite Plus\obj\Debug\NPC Creation Suite Plus.csprojAssemblyReference.cache
+C:\Users\missc\source\repos\NPC Creation Suite Plus\NPC Creation Suite Plus\obj\Debug\NPC_Creation_Suite_Plus.MainWindow.resources
+C:\Users\missc\source\repos\NPC Creation Suite Plus\NPC Creation Suite Plus\obj\Debug\NPC_Creation_Suite_Plus.NewProject.resources
+C:\Users\missc\source\repos\NPC Creation Suite Plus\NPC Creation Suite Plus\obj\Debug\NPC_Creation_Suite_Plus.NPCDisposition.resources
+C:\Users\missc\source\repos\NPC Creation Suite Plus\NPC Creation Suite Plus\obj\Debug\NPC_Creation_Suite_Plus.Properties.Resources.resources
+C:\Users\missc\source\repos\NPC Creation Suite Plus\NPC Creation Suite Plus\obj\Debug\NPC Creation Suite Plus.csproj.GenerateResource.cache
+C:\Users\missc\source\repos\NPC Creation Suite Plus\NPC Creation Suite Plus\obj\Debug\NPC Creation Suite Plus.csproj.CoreCompileInputs.cache
+C:\Users\missc\source\repos\NPC Creation Suite Plus\NPC Creation Suite Plus\bin\Debug\NPC Creation Suite Plus.exe.config
+C:\Users\missc\source\repos\NPC Creation Suite Plus\NPC Creation Suite Plus\bin\Debug\NPC Creation Suite Plus.exe
+C:\Users\missc\source\repos\NPC Creation Suite Plus\NPC Creation Suite Plus\bin\Debug\NPC Creation Suite Plus.pdb
+C:\Users\missc\source\repos\NPC Creation Suite Plus\NPC Creation Suite Plus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\missc\source\repos\NPC Creation Suite Plus\NPC Creation Suite Plus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\missc\source\repos\NPC Creation Suite Plus\NPC Creation Suite Plus\obj\Debug\NPC Creation Suite Plus.csproj.CopyComplete
+C:\Users\missc\source\repos\NPC Creation Suite Plus\NPC Creation Suite Plus\obj\Debug\NPC Creation Suite Plus.exe
+C:\Users\missc\source\repos\NPC Creation Suite Plus\NPC Creation Suite Plus\obj\Debug\NPC Creation Suite Plus.pdb
